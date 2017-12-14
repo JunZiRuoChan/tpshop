@@ -1,0 +1,1656 @@
+[ 2017-07-02T09:25:04+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000169s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001649s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002360s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003498s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000323s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.023484s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.024438s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001129s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001973s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001323s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002156s ]
+
+[ 2017-07-02T09:25:06+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000138s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001397s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000943s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001590s ]
+INFO: [ view_parse ] --START--
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.001359s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.002003s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000734s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001390s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000949s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001571s ]
+
+[ 2017-07-02T09:25:08+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000139s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001377s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001433s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002443s ]
+INFO: [ view_parse ] --START--
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.001454s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.002417s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001814s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003096s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001139s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002144s ]
+
+[ 2017-07-02T09:29:37+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000142s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001677s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001965s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002735s ]
+INFO: [ view_parse ] --START--
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.004722s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006543s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.003769s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.006319s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002003s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003232s ]
+
+[ 2017-07-02T09:29:45+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000253s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002658s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001089s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001805s ]
+INFO: [ view_parse ] --START--
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.001247s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.001871s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000771s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002081s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001161s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001793s ]
+
+[ 2017-07-02T09:30:19+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000238s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002139s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002065s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002999s ]
+INFO: [ view_parse ] --START--
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.002747s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004032s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000930s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001664s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003162s ]
+INFO: [ app_end ] --END-- [ RunTime:0.005094s ]
+
+[ 2017-07-02T09:30:33+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000252s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001900s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001929s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003705s ]
+INFO: [ view_parse ] --START--
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.001573s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.002238s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001144s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001810s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001227s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001926s ]
+
+[ 2017-07-02T09:35:29+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000148s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001567s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002239s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003780s ]
+INFO: [ view_parse ] --START--
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.001571s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.002247s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000944s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001582s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001174s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001837s ]
+
+[ 2017-07-02T09:39:55+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000137s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001377s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002019s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003752s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000324s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001344s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.027338s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.028961s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002515s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.004072s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001401s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002103s ]
+
+[ 2017-07-02T09:40:00+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000149s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001509s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001152s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001844s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000296s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000945s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.014312s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015410s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000833s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001458s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000999s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001629s ]
+
+[ 2017-07-02T09:40:03+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000213s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001663s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001101s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001764s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000408s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001568s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.024546s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.025472s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001646s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002818s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001592s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002449s ]
+
+[ 2017-07-02T09:40:21+08:00 ] 127.0.0.1 /index.php/home/index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000440s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003100s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002300s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003460s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000308s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000973s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.014821s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015484s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000743s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001365s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000931s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001547s ]
+
+[ 2017-07-02T09:40:22+08:00 ] 127.0.0.1 /index.php/home/index/top.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000263s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002268s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001849s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003347s ]
+ERR: 非法操作:top
+
+[ 2017-07-02T09:40:23+08:00 ] 127.0.0.1 /index.php/home/index/center.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000226s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001939s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001692s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002984s ]
+ERR: 非法操作:center
+
+[ 2017-07-02T09:40:23+08:00 ] 127.0.0.1 /index.php/home/index/down.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000151s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001845s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002083s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003262s ]
+ERR: 非法操作:down
+
+[ 2017-07-02T09:40:31+08:00 ] 127.0.0.1 /index.php/home/index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000140s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001400s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001153s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001976s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000626s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.002057s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.014462s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015130s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000742s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001362s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001014s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001666s ]
+
+[ 2017-07-02T09:40:31+08:00 ] 127.0.0.1 /index.php/home/index/top.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000323s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002481s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001380s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002107s ]
+ERR: 非法操作:top
+
+[ 2017-07-02T09:40:31+08:00 ] 127.0.0.1 /index.php/home/index/center.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000262s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002564s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001694s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002963s ]
+ERR: 非法操作:center
+
+[ 2017-07-02T09:40:32+08:00 ] 127.0.0.1 /index.php/home/index/down.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000288s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002391s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002610s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005129s ]
+ERR: 非法操作:down
+
+[ 2017-07-02T09:40:35+08:00 ] 127.0.0.1 /index.php/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000141s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001659s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000936s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001568s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000414s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001466s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.019196s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.020042s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001900s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002843s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001399s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002125s ]
+
+[ 2017-07-02T09:40:42+08:00 ] 127.0.0.1 /index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000158s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001493s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000973s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001607s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000540s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001190s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.013210s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.013914s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000737s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001354s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000985s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001613s ]
+
+[ 2017-07-02T09:43:47+08:00 ] 127.0.0.1 /index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000137s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001494s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001144s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001788s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000308s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000954s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.014294s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.014959s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001076s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001710s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001133s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001769s ]
+
+[ 2017-07-02T09:45:29+08:00 ] 127.0.0.1 /index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000268s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002414s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003212s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004514s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000549s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001660s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.023641s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.026146s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001178s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003389s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001870s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003235s ]
+
+[ 2017-07-02T09:45:32+08:00 ] 127.0.0.1 /index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000138s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001407s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001668s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002798s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000301s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000947s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.013853s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.014821s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000830s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001552s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000942s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001558s ]
+
+[ 2017-07-02T09:45:48+08:00 ] 127.0.0.1 /index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000240s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002160s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001051s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001695s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000352s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001034s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.013842s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.014485s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001369s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002138s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001237s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002089s ]
+
+[ 2017-07-02T09:46:17+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000256s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002284s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001864s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003716s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000954s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.002506s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.022191s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.023286s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000733s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001358s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000933s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001559s ]
+
+[ 2017-07-02T09:52:38+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000188s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001957s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002176s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003510s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000678s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001776s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.034693s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.035928s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001216s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002342s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001881s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003200s ]
+
+[ 2017-07-02T09:56:01+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000137s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001601s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001133s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001775s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000432s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001079s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.022460s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.023421s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001063s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001745s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001649s ]
+INFO: [ app_end ] --END-- [ RunTime:0.004401s ]
+
+[ 2017-07-02T09:56:27+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000141s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001514s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002552s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003945s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000431s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001082s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.020826s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.021468s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000745s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001375s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002344s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003951s ]
+
+[ 2017-07-02T09:57:33+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000249s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003568s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001351s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002259s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001245s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.004138s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.135824s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.140836s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002174s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.004427s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002331s ]
+INFO: [ app_end ] --END-- [ RunTime:0.004049s ]
+
+[ 2017-07-02T10:00:21+08:00 ] 127.0.0.1 /index.php/home/goods/showlist
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000216s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002624s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001388s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002336s ]
+ERR: 无法加载控制器:Home
+
+[ 2017-07-02T10:00:40+08:00 ] 127.0.0.1 /index.php/goods/showlist
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000145s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001437s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001778s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002449s ]
+ERR: 无法加载控制器:Goods
+
+[ 2017-07-02T10:01:01+08:00 ] 127.0.0.1 /index.php/goods/showlist
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000141s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001418s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001498s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002409s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000439s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001082s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.023031s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.023912s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000926s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001548s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002074s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003282s ]
+
+[ 2017-07-02T10:01:01+08:00 ] 127.0.0.1 /index.php/goods/style/base.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000318s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002678s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001640s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003012s ]
+ERR: 非法操作:style
+
+[ 2017-07-02T10:01:01+08:00 ] 127.0.0.1 /index.php/goods/style/global.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000256s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002432s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002512s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003914s ]
+ERR: 非法操作:style
+
+[ 2017-07-02T10:01:01+08:00 ] 127.0.0.1 /index.php/goods/style/footer.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000276s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002389s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001527s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002888s ]
+ERR: 非法操作:style
+
+[ 2017-07-02T10:01:01+08:00 ] 127.0.0.1 /index.php/goods/js/jquery-1.8.3.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000237s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002152s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001564s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002721s ]
+ERR: 非法操作:js
+
+[ 2017-07-02T10:01:01+08:00 ] 127.0.0.1 /index.php/goods/js/header.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000320s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002743s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001635s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002886s ]
+ERR: 非法操作:js
+
+[ 2017-07-02T10:01:01+08:00 ] 127.0.0.1 /index.php/goods/js/list.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000247s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002237s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003301s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005961s ]
+ERR: 非法操作:js
+
+[ 2017-07-02T10:01:01+08:00 ] 127.0.0.1 /index.php/goods/style/global.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000262s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002329s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001656s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002984s ]
+ERR: 非法操作:style
+
+[ 2017-07-02T10:01:01+08:00 ] 127.0.0.1 /index.php/goods/style/footer.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000308s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002838s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001794s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003008s ]
+ERR: 非法操作:style
+
+[ 2017-07-02T10:01:01+08:00 ] 127.0.0.1 /index.php/goods/js/jquery-1.8.3.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000134s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001248s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000961s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001590s ]
+ERR: 非法操作:js
+
+[ 2017-07-02T10:01:02+08:00 ] 127.0.0.1 /index.php/goods/style/header.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000248s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002232s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001761s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003119s ]
+ERR: 非法操作:style
+
+[ 2017-07-02T10:01:02+08:00 ] 127.0.0.1 /index.php/goods/style/list.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000319s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003048s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001721s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002969s ]
+ERR: 非法操作:style
+
+[ 2017-07-02T10:01:02+08:00 ] 127.0.0.1 /index.php/goods/style/common.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000286s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002010s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001796s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003020s ]
+ERR: 非法操作:style
+
+[ 2017-07-02T10:01:02+08:00 ] 127.0.0.1 /index.php/goods/style/bottomnav.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000502s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002049s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001900s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003166s ]
+ERR: 非法操作:style
+
+[ 2017-07-02T10:01:02+08:00 ] 127.0.0.1 /index.php/goods/images/logo.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000138s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001371s ]
+
+[ 2017-07-02T10:01:02+08:00 ] 127.0.0.1 /index.php/goods/images/view_list1.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000251s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002116s ]
+
+[ 2017-07-02T10:01:02+08:00 ] 127.0.0.1 /index.php/goods/js/header.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000256s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002178s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001063s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002456s ]
+ERR: 非法操作:js
+
+[ 2017-07-02T10:01:02+08:00 ] 127.0.0.1 /index.php/goods/images/view_list2.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000279s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002659s ]
+
+[ 2017-07-02T10:01:02+08:00 ] 127.0.0.1 /index.php/goods/js/list.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000430s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003655s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001339s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002706s ]
+ERR: 非法操作:js
+
+[ 2017-07-02T10:01:02+08:00 ] 127.0.0.1 /index.php/goods/images/view_list3.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000272s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003270s ]
+
+[ 2017-07-02T10:01:02+08:00 ] 127.0.0.1 /index.php/goods/images/list_hot2.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000279s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003255s ]
+
+[ 2017-07-02T10:01:02+08:00 ] 127.0.0.1 /index.php/goods/images/list_hot3.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000261s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002451s ]
+
+[ 2017-07-02T10:01:02+08:00 ] 127.0.0.1 /index.php/goods/images/hpG4.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000240s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002285s ]
+
+[ 2017-07-02T10:01:02+08:00 ] 127.0.0.1 /index.php/goods/images/list_hot1.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000339s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003666s ]
+
+[ 2017-07-02T10:01:02+08:00 ] 127.0.0.1 /index.php/goods/images/goods1.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000277s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002332s ]
+
+[ 2017-07-02T10:01:02+08:00 ] 127.0.0.1 /index.php/goods/images/acer4739.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000340s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005311s ]
+
+[ 2017-07-02T10:01:02+08:00 ] 127.0.0.1 /index.php/goods/images/goods3.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000280s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002502s ]
+
+[ 2017-07-02T10:01:02+08:00 ] 127.0.0.1 /index.php/goods/images/goods2.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000252s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002399s ]
+
+[ 2017-07-02T10:01:02+08:00 ] 127.0.0.1 /index.php/goods/images/goods5.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000261s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002270s ]
+
+[ 2017-07-02T10:01:02+08:00 ] 127.0.0.1 /index.php/goods/images/goods6.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000254s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002780s ]
+
+[ 2017-07-02T10:01:02+08:00 ] 127.0.0.1 /index.php/goods/images/xin.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000269s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002263s ]
+
+[ 2017-07-02T10:01:02+08:00 ] 127.0.0.1 /index.php/goods/images/kexin.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001251s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003556s ]
+
+[ 2017-07-02T10:01:02+08:00 ] 127.0.0.1 /index.php/goods/images/beian.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000251s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002150s ]
+
+[ 2017-07-02T10:01:02+08:00 ] 127.0.0.1 /index.php/goods/images/logo.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000300s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002684s ]
+
+[ 2017-07-02T10:01:02+08:00 ] 127.0.0.1 /index.php/goods/images/view_list1.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000325s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003696s ]
+
+[ 2017-07-02T10:01:02+08:00 ] 127.0.0.1 /index.php/goods/images/goods4.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000300s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002411s ]
+
+[ 2017-07-02T10:01:03+08:00 ] 127.0.0.1 /index.php/goods/images/view_list2.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000387s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002783s ]
+
+[ 2017-07-02T10:01:03+08:00 ] 127.0.0.1 /index.php/goods/images/crazy4.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000137s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001355s ]
+
+[ 2017-07-02T10:01:03+08:00 ] 127.0.0.1 /index.php/goods/images/police.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000140s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001639s ]
+
+[ 2017-07-02T10:01:50+08:00 ] 127.0.0.1 /index.php/goods/showlist
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000310s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002479s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003341s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004814s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000477s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001243s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.089304s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.091119s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.003326s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.006373s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002455s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003700s ]
+
+[ 2017-07-02T10:02:04+08:00 ] 127.0.0.1 /index.php/goods/detail
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000135s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001243s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001322s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002395s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000547s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001930s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.021719s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.022865s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000871s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001540s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001829s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002706s ]
+
+[ 2017-07-02T10:02:04+08:00 ] 127.0.0.1 /index.php/goods/style/base.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000258s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002210s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002395s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003760s ]
+ERR: 非法操作:style
+
+[ 2017-07-02T10:02:04+08:00 ] 127.0.0.1 /index.php/goods/style/global.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000263s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002312s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001692s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002940s ]
+ERR: 非法操作:style
+
+[ 2017-07-02T10:02:04+08:00 ] 127.0.0.1 /index.php/goods/style/goods.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000246s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002365s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001931s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003279s ]
+ERR: 非法操作:style
+
+[ 2017-07-02T10:02:04+08:00 ] 127.0.0.1 /index.php/goods/style/footer.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000264s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003493s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003480s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004750s ]
+ERR: 非法操作:style
+
+[ 2017-07-02T10:02:04+08:00 ] 127.0.0.1 /index.php/goods/style/jqzoom.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000461s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003750s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001580s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002862s ]
+ERR: 非法操作:style
+
+[ 2017-07-02T10:02:04+08:00 ] 127.0.0.1 /index.php/goods/js/jquery-1.8.3.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000283s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002277s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001626s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003009s ]
+ERR: 非法操作:js
+
+[ 2017-07-02T10:02:04+08:00 ] 127.0.0.1 /index.php/goods/js/header.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000718s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006202s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001734s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003008s ]
+ERR: 非法操作:js
+
+[ 2017-07-02T10:02:05+08:00 ] 127.0.0.1 /index.php/goods/style/header.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000413s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003657s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002623s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003844s ]
+ERR: 非法操作:style
+
+[ 2017-07-02T10:02:05+08:00 ] 127.0.0.1 /index.php/goods/js/goods.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000239s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003012s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001532s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002957s ]
+ERR: 非法操作:js
+
+[ 2017-07-02T10:02:05+08:00 ] 127.0.0.1 /index.php/goods/js/jqzoom-core.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000268s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002851s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001647s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002791s ]
+ERR: 非法操作:js
+
+[ 2017-07-02T10:02:05+08:00 ] 127.0.0.1 /index.php/goods/style/global.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000293s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002722s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001579s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002714s ]
+ERR: 非法操作:style
+
+[ 2017-07-02T10:02:05+08:00 ] 127.0.0.1 /index.php/goods/style/goods.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000297s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003593s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002363s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004207s ]
+ERR: 非法操作:style
+
+[ 2017-07-02T10:02:05+08:00 ] 127.0.0.1 /index.php/goods/style/header.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000246s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002930s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003844s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005146s ]
+ERR: 非法操作:style
+
+[ 2017-07-02T10:02:05+08:00 ] 127.0.0.1 /index.php/goods/style/footer.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000266s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002287s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001559s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002782s ]
+ERR: 非法操作:style
+
+[ 2017-07-02T10:02:05+08:00 ] 127.0.0.1 /index.php/goods/style/jqzoom.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000247s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002368s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001573s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002727s ]
+ERR: 非法操作:style
+
+[ 2017-07-02T10:02:05+08:00 ] 127.0.0.1 /index.php/goods/js/jquery-1.8.3.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000225s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002295s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001318s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002243s ]
+ERR: 非法操作:js
+
+[ 2017-07-02T10:02:05+08:00 ] 127.0.0.1 /index.php/goods/style/common.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000258s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002526s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001474s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002681s ]
+ERR: 非法操作:style
+
+[ 2017-07-02T10:02:05+08:00 ] 127.0.0.1 /index.php/goods/style/bottomnav.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000263s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002647s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001883s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003686s ]
+ERR: 非法操作:style
+
+[ 2017-07-02T10:02:05+08:00 ] 127.0.0.1 /index.php/goods/images/logo.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000251s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002207s ]
+
+[ 2017-07-02T10:02:05+08:00 ] 127.0.0.1 /index.php/goods/images/view_list1.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000272s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002406s ]
+
+[ 2017-07-02T10:02:05+08:00 ] 127.0.0.1 /index.php/goods/js/header.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000343s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004348s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001808s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004344s ]
+ERR: 非法操作:js
+
+[ 2017-07-02T10:02:06+08:00 ] 127.0.0.1 /index.php/goods/images/view_list2.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000397s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003125s ]
+
+[ 2017-07-02T10:02:06+08:00 ] 127.0.0.1 /index.php/goods/js/goods.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001223s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003736s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001030s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002800s ]
+ERR: 非法操作:js
+
+[ 2017-07-02T10:02:06+08:00 ] 127.0.0.1 /index.php/goods/images/view_list3.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001002s ]
+INFO: [ app_init ] --END-- [ RunTime:0.008048s ]
+
+[ 2017-07-02T10:02:06+08:00 ] 127.0.0.1 /index.php/goods/js/jqzoom-core.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000334s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002605s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001045s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001893s ]
+ERR: 非法操作:js
+
+[ 2017-07-02T10:02:06+08:00 ] 127.0.0.1 /index.php/goods/images/relate_view1.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000186s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001405s ]
+
+[ 2017-07-02T10:02:06+08:00 ] 127.0.0.1 /index.php/goods/images/relate_view3.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000358s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002547s ]
+
+[ 2017-07-02T10:02:06+08:00 ] 127.0.0.1 /index.php/goods/images/relate_view5.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000277s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002660s ]
+
+[ 2017-07-02T10:02:06+08:00 ] 127.0.0.1 /index.php/goods/images/relate_view4.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000258s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002289s ]
+
+[ 2017-07-02T10:02:06+08:00 ] 127.0.0.1 /index.php/goods/images/preview_s1.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000258s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002498s ]
+
+[ 2017-07-02T10:02:06+08:00 ] 127.0.0.1 /index.php/goods/images/preview_m1.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.004187s ]
+INFO: [ app_init ] --END-- [ RunTime:0.009513s ]
+
+[ 2017-07-02T10:02:06+08:00 ] 127.0.0.1 /index.php/goods/images/preview_s2.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000241s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002463s ]
+
+[ 2017-07-02T10:02:06+08:00 ] 127.0.0.1 /index.php/goods/images/preview_s3.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000252s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002852s ]
+
+[ 2017-07-02T10:02:06+08:00 ] 127.0.0.1 /index.php/goods/images/preview_s4.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000238s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002357s ]
+
+[ 2017-07-02T10:02:06+08:00 ] 127.0.0.1 /index.php/goods/images/preview_s6.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000260s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002809s ]
+
+[ 2017-07-02T10:02:06+08:00 ] 127.0.0.1 /index.php/goods/images/preview_s7.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000230s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002095s ]
+
+[ 2017-07-02T10:02:06+08:00 ] 127.0.0.1 /index.php/goods/images/preview_s5.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000232s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002151s ]
+
+[ 2017-07-02T10:02:06+08:00 ] 127.0.0.1 /index.php/goods/images/preview_s9.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000251s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002469s ]
+
+[ 2017-07-02T10:02:06+08:00 ] 127.0.0.1 /index.php/goods/images/relate_view2.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000259s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004817s ]
+
+[ 2017-07-02T10:02:06+08:00 ] 127.0.0.1 /index.php/goods/images/preview_s8.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000261s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005287s ]
+
+[ 2017-07-02T10:02:06+08:00 ] 127.0.0.1 /index.php/goods/images/desc1.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000256s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002320s ]
+
+[ 2017-07-02T10:02:06+08:00 ] 127.0.0.1 /index.php/goods/images/desc2.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000268s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002276s ]
+
+[ 2017-07-02T10:02:06+08:00 ] 127.0.0.1 /index.php/goods/images/desc5.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000239s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002188s ]
+
+[ 2017-07-02T10:02:06+08:00 ] 127.0.0.1 /index.php/goods/images/desc4.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000246s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003663s ]
+
+[ 2017-07-02T10:02:06+08:00 ] 127.0.0.1 /index.php/goods/images/desc6.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000265s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002385s ]
+
+[ 2017-07-02T10:02:06+08:00 ] 127.0.0.1 /index.php/goods/images/desc8.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000236s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002241s ]
+
+[ 2017-07-02T10:02:06+08:00 ] 127.0.0.1 /index.php/goods/images/desc9.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000273s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002315s ]
+
+[ 2017-07-02T10:02:06+08:00 ] 127.0.0.1 /index.php/goods/images/desc7.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000292s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003769s ]
+
+[ 2017-07-02T10:02:06+08:00 ] 127.0.0.1 /index.php/goods/images/user1.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000233s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002797s ]
+
+[ 2017-07-02T10:02:06+08:00 ] 127.0.0.1 /index.php/goods/images/user2.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000236s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003663s ]
+
+[ 2017-07-02T10:02:06+08:00 ] 127.0.0.1 /index.php/goods/images/xin.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000263s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002945s ]
+
+[ 2017-07-02T10:02:06+08:00 ] 127.0.0.1 /index.php/goods/images/user3.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000260s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002489s ]
+
+[ 2017-07-02T10:02:06+08:00 ] 127.0.0.1 /index.php/goods/images/desc3.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000251s ]
+INFO: [ app_init ] --END-- [ RunTime:0.134852s ]
+
+[ 2017-07-02T10:02:06+08:00 ] 127.0.0.1 /index.php/goods/images/beian.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000451s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002629s ]
+
+[ 2017-07-02T10:02:06+08:00 ] 127.0.0.1 /index.php/goods/images/police.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000293s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002710s ]
+
+[ 2017-07-02T10:02:06+08:00 ] 127.0.0.1 /index.php/goods/images/logo.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000263s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003325s ]
+
+[ 2017-07-02T10:02:06+08:00 ] 127.0.0.1 /index.php/goods/images/view_list2.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000240s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002344s ]
+
+[ 2017-07-02T10:02:06+08:00 ] 127.0.0.1 /index.php/goods/images/view_list1.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000258s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002396s ]
+
+[ 2017-07-02T10:02:06+08:00 ] 127.0.0.1 /index.php/goods/images/view_list3.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000320s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002783s ]
+
+[ 2017-07-02T10:02:07+08:00 ] 127.0.0.1 /index.php/goods/images/kexin.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000260s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002444s ]
+
+[ 2017-07-02T10:02:07+08:00 ] 127.0.0.1 /index.php/goods/images/hpG4.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000250s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002945s ]
+
+[ 2017-07-02T10:02:07+08:00 ] 127.0.0.1 /index.php/goods/images/crazy4.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000301s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002546s ]
+
+[ 2017-07-02T10:02:45+08:00 ] 127.0.0.1 /index.php/goods/detail
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000140s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001452s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001064s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001718s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000481s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001692s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.046867s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.048327s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002910s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.004992s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002719s ]
+INFO: [ app_end ] --END-- [ RunTime:0.014295s ]
+
+[ 2017-07-02T10:03:24+08:00 ] 127.0.0.1 /index.php/user/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000135s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001290s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001949s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002992s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000327s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000971s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.016025s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.016730s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000805s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001414s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001849s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002516s ]
+
+[ 2017-07-02T10:03:24+08:00 ] 127.0.0.1 /index.php/user/style/base.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000271s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002372s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001835s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003143s ]
+ERR: 非法操作:style
+
+[ 2017-07-02T10:03:24+08:00 ] 127.0.0.1 /index.php/user/style/global.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000249s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003288s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001724s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002970s ]
+ERR: 非法操作:style
+
+[ 2017-07-02T10:03:24+08:00 ] 127.0.0.1 /index.php/user/style/global.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000405s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002410s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002611s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004741s ]
+ERR: 非法操作:style
+
+[ 2017-07-02T10:03:24+08:00 ] 127.0.0.1 /index.php/user/images/logo.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000583s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002997s ]
+
+[ 2017-07-02T10:03:25+08:00 ] 127.0.0.1 /index.php/user/style/footer.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000284s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002203s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001623s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002924s ]
+ERR: 非法操作:style
+
+[ 2017-07-02T10:03:25+08:00 ] 127.0.0.1 /index.php/user/style/header.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000248s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002541s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001798s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003116s ]
+ERR: 非法操作:style
+
+[ 2017-07-02T10:03:25+08:00 ] 127.0.0.1 /index.php/user/style/login.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000183s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001526s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001493s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002361s ]
+ERR: 非法操作:style
+
+[ 2017-07-02T10:03:25+08:00 ] 127.0.0.1 /index.php/user/images/kexin.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000658s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003441s ]
+
+[ 2017-07-02T10:03:25+08:00 ] 127.0.0.1 /index.php/user/images/police.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000251s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002278s ]
+
+[ 2017-07-02T10:03:25+08:00 ] 127.0.0.1 /index.php/user/images/checkcode1.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000214s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001780s ]
+
+[ 2017-07-02T10:03:26+08:00 ] 127.0.0.1 /index.php/user/images/beian.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000239s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001629s ]
+
+[ 2017-07-02T10:04:02+08:00 ] 127.0.0.1 /index.php/user/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000203s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001635s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001033s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001827s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000345s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001088s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.021393s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.022576s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001090s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002002s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001622s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002900s ]
+
+[ 2017-07-02T10:04:17+08:00 ] 127.0.0.1 /index.php/user/register
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000136s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001303s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000913s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001562s ]
+ERR: 模板不存在:./Application/Home/View/User/register.html
+
+[ 2017-07-02T10:04:26+08:00 ] 127.0.0.1 /index.php/user/regist
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000135s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001351s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000985s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001625s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000343s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000996s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.020473s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.021535s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001180s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002036s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001219s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001959s ]
+
+[ 2017-07-02T10:04:26+08:00 ] 127.0.0.1 /index.php/user/style/global.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000268s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002242s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001648s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003036s ]
+ERR: 非法操作:style
+
+[ 2017-07-02T10:04:26+08:00 ] 127.0.0.1 /index.php/user/style/header.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000234s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002485s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002314s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003544s ]
+ERR: 非法操作:style
+
+[ 2017-07-02T10:04:26+08:00 ] 127.0.0.1 /index.php/user/style/base.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000257s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002321s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002404s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004422s ]
+ERR: 非法操作:style
+
+[ 2017-07-02T10:04:27+08:00 ] 127.0.0.1 /index.php/user/images/checkcode1.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000308s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002567s ]
+
+[ 2017-07-02T10:04:27+08:00 ] 127.0.0.1 /index.php/user/images/logo.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000448s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003585s ]
+
+[ 2017-07-02T10:04:27+08:00 ] 127.0.0.1 /index.php/user/style/login.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000309s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002436s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001155s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001912s ]
+ERR: 非法操作:style
+
+[ 2017-07-02T10:04:27+08:00 ] 127.0.0.1 /index.php/user/style/footer.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000253s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002347s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001204s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002041s ]
+ERR: 非法操作:style
+
+[ 2017-07-02T10:04:27+08:00 ] 127.0.0.1 /index.php/user/images/police.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000245s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002172s ]
+
+[ 2017-07-02T10:04:27+08:00 ] 127.0.0.1 /index.php/user/images/kexin.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001449s ]
+INFO: [ app_init ] --END-- [ RunTime:0.017226s ]
+
+[ 2017-07-02T10:04:27+08:00 ] 127.0.0.1 /index.php/user/images/xin.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.003200s ]
+INFO: [ app_init ] --END-- [ RunTime:0.010513s ]
+
+[ 2017-07-02T10:04:29+08:00 ] 127.0.0.1 /index.php/user/images/beian.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000218s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001657s ]
+
+[ 2017-07-02T10:04:53+08:00 ] 127.0.0.1 /index.php/user/regist
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000137s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001305s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001441s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002750s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000476s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001555s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.027352s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.028833s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001030s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001663s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001097s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001758s ]
+
+[ 2017-07-02T10:05:51+08:00 ] 127.0.0.1 /index.php/home/user/regist
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000138s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001418s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001957s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003080s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000327s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000966s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015803s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.016447s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000803s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001420s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001020s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001646s ]
+
+[ 2017-07-02T10:05:55+08:00 ] 127.0.0.1 /index.php/home/user/regist
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000149s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001772s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001576s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002819s ]
+ERR: 无法加载控制器:Home
+
+[ 2017-07-02T10:05:59+08:00 ] 127.0.0.1 /index.php/user/regist
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000140s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001634s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001102s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001759s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000549s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001236s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015565s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.016527s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000742s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001351s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001179s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001914s ]
+
+[ 2017-07-02T10:24:16+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000236s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003060s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001307s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002387s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000439s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001088s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.031014s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.031737s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001051s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002223s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001768s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002668s ]
+
+[ 2017-07-02T10:24:27+08:00 ] 127.0.0.1 /index.php/admin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000136s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001319s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001367s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002109s ]
+ERR: 无法加载控制器:Admin
+
+[ 2017-07-02T10:45:28+08:00 ] 127.0.0.1 /?XDEBUG_SESSION_START=10206
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000763s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003378s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003260s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.006242s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000673s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001516s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.064490s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.065908s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001350s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002362s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003117s ]
+INFO: [ app_end ] --END-- [ RunTime:0.004799s ]
+
+[ 2017-07-02T11:06:21+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000138s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001553s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001465s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002418s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000559s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001582s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.032817s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.033555s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001197s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001883s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001722s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002935s ]
+
+[ 2017-07-02T11:06:34+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000160s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001569s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001352s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002390s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000630s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001649s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.040714s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.041823s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001595s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003105s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001913s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003147s ]
+
+[ 2017-07-02T11:13:22+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000257s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002933s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004653s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.006281s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000834s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.002071s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.291414s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.293032s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001686s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.004441s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001758s ]
+INFO: [ app_end ] --END-- [ RunTime:0.031126s ]
+

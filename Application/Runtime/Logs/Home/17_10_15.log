@@ -1,0 +1,10 @@
+[ 2017-10-15T15:27:33+08:00 ] 127.0.0.1 /User/index.html
+ERR: 非法操作:index
+
+[ 2017-10-15T15:27:39+08:00 ] 127.0.0.1 /Shop/index.html
+ERR: 非法操作:index
+
+[ 2017-10-15T15:27:49+08:00 ] 127.0.0.1 /Goods/showlist.html
+ERR: 1146:Table 'itshop.sp_secbuy' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `sp_secbuy`
+

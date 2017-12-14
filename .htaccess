@@ -1,0 +1,9 @@
+#开启重写模块功能
+RewriteEngine on
+
+#访问的不是一个文件file
+RewriteCond %{REQUEST_FILENAME} !-f
+#访问的不是一个目录directory
+RewriteCond %{REQUEST_FILENAME} !-d
+#$1代表正则小括号中的内容
+RewriteRule ^(.*)$  index\.php?/$1

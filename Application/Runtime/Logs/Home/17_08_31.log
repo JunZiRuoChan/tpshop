@@ -1,0 +1,12 @@
+[ 2017-08-31T22:38:36+08:00 ] 127.0.0.1 /Goods/showlist.html
+ERR: 1146:Table 'itshop.sp_secbuy' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `sp_secbuy`
+
+[ 2017-08-31T22:39:33+08:00 ] 127.0.0.1 /Goods/detail
+ERR: 1054:Unknown column 'cached' in 'field list'
+ [ SQL语句 ] : SELECT `cached`,`lastvisittime` FROM `sp_goods` WHERE `goods_id` = 0 
+
+[ 2017-08-31T22:39:45+08:00 ] 127.0.0.1 /Goods/detail/goods_id/1
+ERR: 1054:Unknown column 'cached' in 'field list'
+ [ SQL语句 ] : SELECT `cached`,`lastvisittime` FROM `sp_goods` WHERE `goods_id` = 1 
+

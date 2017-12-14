@@ -1,0 +1,96 @@
+[ 2017-07-15T14:49:23+08:00 ] 127.0.0.1 /index.php/home/Api/getWeather/city=%E6%88%90%E9%83%BD
+ERR: 无法加载控制器:Api
+
+[ 2017-07-15T14:49:41+08:00 ] 127.0.0.1 /index.php/home/Api/getWeather/city=%E6%88%90%E9%83%BD
+ERR: 无法加载控制器:Api
+
+[ 2017-07-15T14:57:01+08:00 ] 127.0.0.1 /index.php/home/Api/getWeather/city=%E6%88%90%E9%83%BD
+ERR: 无法加载控制器:Api
+
+[ 2017-07-15T14:58:08+08:00 ] 127.0.0.1 /index.php/home/Api/getWeather/city=%E6%88%90%E9%83%BD
+ERR: 参数错误或者未定义:city
+
+[ 2017-07-15T14:58:18+08:00 ] 127.0.0.1 /index.php/home/Api/getWeather/%E6%88%90%E9%83%BD
+ERR: 参数错误或者未定义:city
+
+[ 2017-07-15T14:59:22+08:00 ] 127.0.0.1 /index.php/home/Api/getWeather/
+ERR: 参数错误或者未定义:city
+
+[ 2017-07-15T19:07:53+08:00 ] 127.0.0.1 /index.php/Home/Shop/addCart?goods_id=54&goods_num=1
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `sp_goods` [ RunTime:0.0530s ]
+SQL: SELECT * FROM `sp_goods` WHERE `goods_id` = 54 LIMIT 1   [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `sp_goods` [ RunTime:0.0390s ]
+SQL: SELECT `goods_price`,`goods_member_price` FROM `sp_goods` WHERE `goods_id` = 54 LIMIT 1   [ RunTime:0.0010s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003000s ]
+
+[ 2017-07-15T19:38:46+08:00 ] 127.0.0.1 /index.php/Order/orderList.html
+ERR: 1146:Table 'itshop.__ordergoods__' doesn't exist
+ [ SQL语句 ] : SELECT * FROM sp_order o INNER JOIN __OrderGoods__ as og on o.order_id=og.order_id INNER JOIN __Goods__ as g on g.goods_id = og.goods_id  WHERE o.user_id = '242' 
+
+[ 2017-07-15T19:39:08+08:00 ] 127.0.0.1 /index.php/Order/orderList.html
+ERR: 1146:Table 'itshop.__ordergoods__' doesn't exist
+ [ SQL语句 ] : SELECT * FROM sp_order o INNER JOIN __Ordergoods__ as og on o.order_id=og.order_id INNER JOIN __Goods__ as g on g.goods_id = og.goods_id  WHERE o.user_id = '242' 
+
+[ 2017-07-15T19:39:12+08:00 ] 127.0.0.1 /index.php/Order/orderList.html
+ERR: 1146:Table 'itshop.__order_goods__' doesn't exist
+ [ SQL语句 ] : SELECT * FROM sp_order o INNER JOIN __Order_goods__ as og on o.order_id=og.order_id INNER JOIN __Goods__ as g on g.goods_id = og.goods_id  WHERE o.user_id = '242' 
+
+[ 2017-07-15T19:39:30+08:00 ] 127.0.0.1 /index.php/Order/orderList.html
+ERR: 1146:Table 'itshop.__ordergoods__' doesn't exist
+ [ SQL语句 ] : SELECT * FROM sp_order o INNER JOIN __orderGoods__ as og on o.order_id=og.order_id INNER JOIN __Goods__ as g on g.goods_id = og.goods_id  WHERE o.user_id = '242' 
+
+[ 2017-07-15T20:14:05+08:00 ] 127.0.0.1 /index.php/Order/orderList.html
+ERR: Think\Model:getOrderDetail方法不存在！
+
+[ 2017-07-15T20:25:08+08:00 ] 127.0.0.1 /index.php/Order/orderList.html
+ERR: 1146:Table 'itshop.__ordergoods__' doesn't exist
+ [ SQL语句 ] : SELECT * FROM sp_goods g INNER JOIN __OrderGoods__ as og on og.goods_id = g.goods_id  WHERE `order_id` = 1 
+
+[ 2017-07-15T20:25:18+08:00 ] 127.0.0.1 /index.php/Order/orderList.html
+ERR: 1146:Table 'itshop.__ordergoods__' doesn't exist
+ [ SQL语句 ] : SELECT * FROM sp_goods g INNER JOIN __orderGoods__ as og on og.goods_id = g.goods_id  WHERE `order_id` = 1 
+
+[ 2017-07-15T20:25:23+08:00 ] 127.0.0.1 /index.php/Order/orderList.html
+ERR: 1146:Table 'itshop.__ordergoods__' doesn't exist
+ [ SQL语句 ] : SELECT * FROM sp_goods g INNER JOIN __OrderGoods__ as og on og.goods_id = g.goods_id  WHERE `order_id` = 1 
+
+[ 2017-07-15T20:25:42+08:00 ] 127.0.0.1 /index.php/Order/orderList.html
+ERR: 1146:Table 'itshop.__ordergoods__' doesn't exist
+ [ SQL语句 ] : SELECT * FROM sp_goods g INNER JOIN __OrderGoods__ as og on og.goods_id = g.goods_id  WHERE `order_id` IN ('1','2','3','4','5','6','7','8','9') 
+
+[ 2017-07-15T20:25:50+08:00 ] 127.0.0.1 /index.php/Order/orderList.html
+ERR: 1146:Table 'itshop.__ordergoods__' doesn't exist
+ [ SQL语句 ] : SELECT * FROM sp_goods g INNER JOIN __orderGoods__ as og on og.goods_id = g.goods_id  WHERE `order_id` IN ('1','2','3','4','5','6','7','8','9') 
+
+[ 2017-07-15T20:26:09+08:00 ] 127.0.0.1 /index.php/Order/orderList.html
+ERR: 1146:Table 'itshop.sp_ordergoods' doesn't exist
+ [ SQL语句 ] : SELECT * FROM sp_goods g INNER JOIN sp_ordergoods as og on og.goods_id = g.goods_id  WHERE `order_id` IN ('1','2','3','4','5','6','7','8','9') 
+
+[ 2017-07-15T20:26:15+08:00 ] 127.0.0.1 /index.php/Order/orderList.html
+ERR: 1146:Table 'itshop.__ordergoods__' doesn't exist
+ [ SQL语句 ] : SELECT * FROM sp_goods g INNER JOIN __ORDERgOODS__ as og on og.goods_id = g.goods_id  WHERE `order_id` IN ('1','2','3','4','5','6','7','8','9') 
+
+[ 2017-07-15T21:17:10+08:00 ] 127.0.0.1 /index.php/Order/orderList.html
+ERR: 1052:Column 'goods_id' in field list is ambiguous
+ [ SQL语句 ] : SELECT `goods_id` FROM sp_goods g INNER JOIN sp_order_goods as og on og.goods_id = g.goods_id  WHERE og.order_id IN ('1','2','3','4','5','6','7','8','9') 
+
+[ 2017-07-15T21:54:38+08:00 ] 127.0.0.1 /index.php/Home/Shop/addCart?goods_id=54&goods_num=1
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.005000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005000s ]
+SQL: SHOW COLUMNS FROM `sp_goods` [ RunTime:0.0240s ]
+SQL: SELECT * FROM `sp_goods` WHERE `goods_id` = 54 LIMIT 1   [ RunTime:0.0020s ]
+SQL: SHOW COLUMNS FROM `sp_goods` [ RunTime:0.0280s ]
+SQL: SELECT `goods_price`,`goods_member_price` FROM `sp_goods` WHERE `goods_id` = 54 LIMIT 1   [ RunTime:0.0010s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.004000s ]
+
+[ 2017-07-15T23:47:51+08:00 ] 127.0.0.1 /index.php/Home/Order/
+ERR: 非法操作:index
+

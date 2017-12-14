@@ -1,0 +1,80 @@
+{__NOLAYOUT__}
+<layout name="Pub/layout2" />
+    <!-- 页面头部 end -->
+<script>
+    function checkName(){
+        var username = $('[name=username]').val();
+        $.ajax({
+            url:'/index.php/Home/User/checkNames',
+            data:{'username':username},
+            dataType:'json',
+            type:'post',
+            success:function(msg){
+//              console.log(msg);
+                if(msg.status==0){
+                    $('#userins').empty().css({'color':'red'}).text(msg.infos);
+                }else{
+                    $('#userins').empty().css({'color':'green'}).text(msg.infos);
+                }
+
+            }
+        });
+    }
+    function send(){
+        //获取手机号码
+        var tel = $('[name="user_tel"]').val();
+        $.ajax({
+            url:'/index.php/Home/User/sendCont',
+            data:{'tel':tel},
+            dataType:'json',
+            success:function(msg){
+                if(msg.status===0){
+                    $('#sendresult').html('短信发送成功……');
+                }else{
+                    $('#sendresult').html('短信发送失败！');
+                }
+            }
+        });
+    }
+</script>
+    <!-- 登录主体部分start -->
+    <div class="login w990 bc mt10 regist">
+        <div class="login_hd">
+            <h2>用户注册</h2>
+            <b></b>
+        </div>
+        <div class="login_bd">
+            <div class="login_form fl">
+                <form action="" method="post">
+                    <ul>
+                        <li>
+                            <label for="">手机号码：</label>
+                            <input type="text" class="txt" name="user_tel" style="width:150px;" />
+                            <span><input type="button" name="btn" value="免费获取验证码" onclick="send()"><span id="sendresult"></span></span>
+                        </li>
+                        <li class="checkcode">
+                            <label for="">验证码：</label>
+                            <input type="text"  name="checkcode" onblur="checkCode()"/>
+                            <span style="color:red">{$infoerror|default=''}</span>
+                        </li>
+                        <li>
+                            <label for="">&nbsp;</label>
+                            <input type="submit" value="" class="login_btn" />
+                        </li>
+                    </ul>
+                </form>
+
+
+            </div>
+
+            <div class="mobile fl">
+                <h3>手机快速注册</h3>
+                <p>中国大陆手机用户，编辑短信 “<strong>XX</strong>”发送到：</p>
+                <p><strong>1069099988</strong></p>
+            </div>
+
+        </div>
+    </div>
+    <!-- 登录主体部分end -->
+
+    <div style="clear:both;"></div>

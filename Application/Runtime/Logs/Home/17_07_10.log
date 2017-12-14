@@ -1,0 +1,46 @@
+[ 2017-07-10T10:08:52+08:00 ] 127.0.0.1 /index.php/shop/flow2
+ERR: XML标签语法错误
+
+[ 2017-07-10T15:49:28+08:00 ] 127.0.0.1 /index.php/Home/Shop/addCart?goods_id=51
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000974s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002154s ]
+SQL: SHOW COLUMNS FROM `sp_goods` [ RunTime:0.0071s ]
+SQL: SELECT * FROM `sp_goods` WHERE `goods_id` = 51 LIMIT 1   [ RunTime:0.0007s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000960s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001528s ]
+
+[ 2017-07-10T15:49:31+08:00 ] 127.0.0.1 /index.php/Home/Shop/addCart?goods_id=51
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001288s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003058s ]
+SQL: SHOW COLUMNS FROM `sp_goods` [ RunTime:0.0066s ]
+SQL: SELECT * FROM `sp_goods` WHERE `goods_id` = 51 LIMIT 1   [ RunTime:0.0010s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001007s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001585s ]
+
+[ 2017-07-10T15:49:33+08:00 ] 127.0.0.1 /index.php/Home/Shop/addCart?goods_id=51
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001895s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003515s ]
+SQL: SHOW COLUMNS FROM `sp_goods` [ RunTime:0.0166s ]
+SQL: SELECT * FROM `sp_goods` WHERE `goods_id` = 51 LIMIT 1   [ RunTime:0.0007s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001050s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001602s ]
+
+[ 2017-07-10T15:52:07+08:00 ] 127.0.0.1 /index.php/Shop/flow2.html
+ERR: syntax error, unexpected '$this' (T_VARIABLE)
+
+[ 2017-07-10T16:03:59+08:00 ] 127.0.0.1 /index.php/Home/Shop/addCart?goods_id=47
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001004s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002198s ]
+SQL: SHOW COLUMNS FROM `sp_goods` [ RunTime:0.0064s ]
+SQL: SELECT * FROM `sp_goods` WHERE `goods_id` = 47 LIMIT 1   [ RunTime:0.0007s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000946s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001478s ]
+
